@@ -1,0 +1,68 @@
+
+
+header {
+    background-color: slategray;
+    padding: 1.5rem;
+}
+
+.h2 {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    margin: .4rem;
+}
+
+.pedido {
+    font-family: Bold, sans-serif;
+    margin-left: 1rem;
+}
+
+.checkbox{
+    margin:0 12px 0 0;
+    vertical-align: middle;
+    position: relative;
+    top: -8px;
+}
+
+.cartão {
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+}
+
+
+.pix {
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+}
+
+.escolha {
+    font-size: 20px;
+    font-family: Bold, sans-serif;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+.comentario {
+    font-family: Bold, sans-serif;
+    margin-left: 1rem;
+}
+
+.pagamento1, .pagamento2 {
+    font-family: Bold, sans-serif;
+}
+
+
+.textarea {
+    margin-left: .8rem;
+    border-radius: 10px;
+}
+
+.btn {
+    margin-top: .5rem;
+    margin-left: 8rem;
+    margin-bottom: 1rem;
+}

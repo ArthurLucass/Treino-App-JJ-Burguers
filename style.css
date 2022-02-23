@@ -1,0 +1,32 @@
+
+.img-fluid {
+border-radius: 15px;
+}
+.title1 {
+    display: flex;
+    justify-content: center;
+
+    font-family: Bold, sans-serif;
+    color: #000;
+}
+
+.price {
+    font-family: 'Bebas Neue', cursive;
+    
+}
+
+
+.footer {
+    color: #fff;
+    font-family: Bold, sans-serif;
+    display: flex;
+    margin-left: 1rem;
+   
+}
+
+.names {
+    color: #000;
+    font-family: Bold, sans-serif;
+    display: flex;
+    justify-content: center;
+}
